@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\labor53\UnitTest1\UnitTest1.cpp(19,27): error C2065: 'g': undeclared identifier
+D:\labor53\UnitTest1\UnitTest1.cpp(19,31): error C2065: 'g': undeclared identifier
+D:\labor53\UnitTest1\UnitTest1.cpp(19,42): error C2065: 'g': undeclared identifier
